@@ -7,7 +7,10 @@
 
 
 
-Skills:  REACT / TS / CSS
+## Skilss and Experience 
+* ⚛ React, redux
+* 📱 React Native
+* 💻 TypeScript, NodeJs
 
 
 
