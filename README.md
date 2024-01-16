@@ -1,5 +1,5 @@
 
-👋 Hello there! I'm Karl, a passionate Web Developper enthusiast on a journey to explore the realms of technology and creativity. My GitHub is a canvas where I ignite my curiosity. Whether it's crafting elegant code, diving into cutting-edge technologies, or collaborating on exciting projects, I thrive on the thrill of problem-solving. Join me on this coding adventure! 🚀
+👋 Hello, there! I'm Karl, a Web Developer enthusiast on a journey to learn more about technology and creativity. My GitHub is a instance on which I express my curiosity. I enjoy the pleasure of problem solving, whether it's writing elegant code, digging into cutting-edge technology, or working on interesting projects. Join me during this coding adventure! 🚀
 
 
 #### Design and Development
